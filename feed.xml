@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+
+<title>Oriol News Website</title>
+<description>Noticies falses sobre informatica, no hem considero un mitja de comunicacio.</description>
+<copyright>No hi ha copyright, soc un gracios, i m'agrada incomplir el tractat de ginebra.</copyright>
+
+<item>
+
+<title>Noticia 1 – Un virus creat per corea del nord</title>
+<link>Noticia1.html</link>
+<description>Corea del nord, una nova super potencia en informatica ha creat un virus que infecta a les seves victimes amb el virus de la bachata.</description>
+<author>Rabbitboy14</author>
+<pubDate>Thu, 12 Sep 2021</pubDate>
+
+</item>
+
+<item>
+
+<title>Noticia 2 – Hittler i la informatica de mitjans del segle XX</title>
+<link>Noticia2.html</link>
+<description>Amb les ultimes investigacions s'ha descobert que hittler era un professional de la informatica.</description>
+<author>Rabbitgirl14</author>
+<pubDate>Thu, 12 Sep 2020</pubDate>
+
+</item>
+
+<item>
+
+<title>Noticia 3 – Un meteorit aportara 3 milions de tonelades de Coltan</title>
+<link>Noticia3.html</link>
+<description>Un meteorit que va sortir propulsat per la colisio de dues estrelles ha posat rumb a la terra per aportar 3 milions de tonelades de coltan per a la fabricacio de dispositius electronics.</description>
+<author>Oriol Juste Valles</author>
+<pubDate>Thu, 12 Sep 2021</pubDate>
+
+</item>
+
+</channel>
+
+</rss>
