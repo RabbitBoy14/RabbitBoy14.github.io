@@ -1,0 +1,46 @@
+body{
+    background-color: rgba(0, 0, 0, 0.712);
+}
+th{
+    color: rgb(255, 255, 255);
+}
+
+.tec{
+    color: rgb(0, 0, 0);
+    background-color: rgb(210, 105, 30);
+}
+
+.esbarjo{
+    color: black;
+    background-color: rgba(0, 255, 255);
+}
+
+.cult{
+    color: black;
+    background-color: rgb(0, 128, 0);
+}
+
+.fi{
+    color: black;
+    background-color: blue;
+}
+
+.mat{
+    color: black;
+    background-color: rgb(0, 217, 255);
+}
+
+.cat{
+    color: black;
+    background-color: red;
+}
+
+.cas{
+    color: black;
+    background-color: rgb(255, 208, 0);
+}
+
+.his{
+    color: black;
+    background-color: darkgreen;
+}
